@@ -1,0 +1,10 @@
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\bin\Debug\12MonthCalendarIvaSosic.exe.config
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\bin\Debug\12MonthCalendarIvaSosic.exe
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\bin\Debug\12MonthCalendarIvaSosic.pdb
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\obj\Debug\12MonthCalendarIvaSosic.csproj.AssemblyReference.cache
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\obj\Debug\_12MonthCalendarIvaSosic.Form1.resources
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\obj\Debug\_12MonthCalendarIvaSosic.Properties.Resources.resources
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\obj\Debug\12MonthCalendarIvaSosic.csproj.GenerateResource.cache
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\obj\Debug\12MonthCalendarIvaSosic.csproj.CoreCompileInputs.cache
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\obj\Debug\12MonthCalendarIvaSosic.exe
+C:\Users\Iva\source\repos\12MonthCalendarIvaSosic\12MonthCalendarIvaSosic\obj\Debug\12MonthCalendarIvaSosic.pdb
